@@ -28,3 +28,4 @@ Khi một trang Web muốn được dùng ngôn ngữ  PHP thì phải đáp ứ
 Khác với ngôn ngữ lập trình, PHP được thiết kế để chỉ thực hiện điều gì đó sau khi một sự kiện xảy ra (ví dụ, khi người dùng gửi một biểu mẫu hoặc chuyển tới một URL).
 
 
+link: http://thanhthuytin11a4.atwebpages.com/
